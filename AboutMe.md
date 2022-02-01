@@ -10,7 +10,8 @@
 |---|---|---|
 |Kabbadi|INDIA|$200|
 |Cricket|INDIA|$400|
-|BasketBall|INDIA|$300|
+|BasketBall|USA|$300|
+|Soccerr|USA|$400|
 
 *************************************************************************
 The purpose of our lives is to be happy
