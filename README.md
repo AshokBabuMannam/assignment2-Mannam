@@ -2,7 +2,7 @@
 ## Paraside is my favourite place to have food.
 This restuarent is famous for **Hyderabad biryani**, which is near by **Parde ground**.
 *************************************************************************************************
-# Ordered List
+# Directions to the Place
 ### Rajiv Gandhi International Airport
 1.  After coming out of Airport.
     1. Book a cab from OLA/Uber to destination as Paraside.
@@ -38,6 +38,8 @@ This restuarent is famous for **Hyderabad biryani**, which is near by **Parde gr
 |Soccerr|USA|$400|
 
 *************************************************************************
+### Pithy Quotes
+
 The purpose of our lives is to be happy
 >   ~ *Dalai Lama*
 
