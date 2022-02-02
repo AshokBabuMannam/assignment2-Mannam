@@ -11,7 +11,8 @@ This restuarent is famous for **Hyderabad biryani**, which is near by **Parde gr
     1. Show the reserved table details you booked.
     2. Have your seat and ask for Menu card.
     3. Order the list of items you wish to eat and enjoy the food.
-# Un ordered List
+    
+# Following are the food items
 1.  Vegeterian 
     1. Paneer Butter Masala
     2. Butter Naan
