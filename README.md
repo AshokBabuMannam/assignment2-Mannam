@@ -18,10 +18,10 @@ This restuarent is famous for **Hyderabad biryani**, which is near by **Parde gr
     3. Roti
     4. Dal Tadkha
     5. Panner Biryani 
-2.  Non Vegererian 
-    1. Chicken Dum Biryani
-    2. Chicken SP Biryani 
-    3. Mutton Biryani         
-    4. Prawn Biryani
+*  Non Vegererian 
+    * Chicken Dum Biryani
+    * Chicken SP Biryani 
+    * Mutton Biryani         
+    * Prawn Biryani
 
 **[About Me Link ](AboutMe.md)**
