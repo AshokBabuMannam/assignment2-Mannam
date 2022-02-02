@@ -3,7 +3,7 @@
 This restuarent is famous for **Hyderabad biryani**, which is near by **Parde ground**.
 *************************************************************************************************
 # Ordered List
-## Rajiv Gandhi International Airport
+### Rajiv Gandhi International Airport
 1.  After coming out of Airport.
     1. Book a cab from OLA/Uber to destination as Paraside.
     2. Reserve a table via Online for dining.
