@@ -99,5 +99,5 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
 }
 
 
-Link to Source <https://cp-algorithms.com/geometry/convex-hull.html>
+ Link to Source <https://cp-algorithms.com/geometry/convex-hull.html>
 
