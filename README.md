@@ -45,3 +45,10 @@ The purpose of our lives is to be happy
 
 You only live once, but if you do it right, once is enough
 >  ~ *Mae West*
+
+***
+
+# Code Fencing
+> Given a set of points in the plane. the convex hull of the set is the smallest convex polygon that contains all the points of it. 
+
+Link to Source <https://www.geeksforgeeks.org/convex-hull-set-2-graham-scan/?ref=gcse>
