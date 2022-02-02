@@ -99,7 +99,7 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
 }
 ```
 
- Link to Source <https://cp-algorithms.com/geometry/convex-hull.html>
+ Link to Source code <https://cp-algorithms.com/geometry/convex-hull.html>
 
  > Given a set of points, the task is to find the convex hull of the given points. The convex hull is the smallest convex polygon that contains all the points.  Monotone chain algorithm constructs the convex hull in O(n * log(n)) time. We have to sort the points first and then calculate the upper and lower hulls in O(n) time.
 
@@ -163,7 +163,7 @@ void convex_hull(vector<pt>& a, bool include_collinear = false) {
 
 ```
 
-Link to Source <https://cp-algorithms.com/geometry/convex-hull.html>
+Link to Source code <https://cp-algorithms.com/geometry/convex-hull.html>
 
 
 
